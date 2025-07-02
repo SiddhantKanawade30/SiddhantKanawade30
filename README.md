@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 🔭I'm currently working on MERN stack projects <br>🌱Also learning new technologies <br>⚡Always exited to learn something new<br>Exited to pick challenges
 
 
