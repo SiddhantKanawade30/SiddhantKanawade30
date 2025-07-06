@@ -4,4 +4,4 @@ I specialize in JavaScript and TypeScript, and enjoy writing clean, efficient co
 Always exploring new technologies and best practices to improve performance and user experience.<br>
 Currently focused on building real-world projects to strengthen my skills.<br>
 
-<a href="https://siddhantkanawade.vercel.app/">Know more -></a>
+<a href="https://siddhantkanawade.vercel.app/"  target="_blank">Know more -></a>
