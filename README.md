@@ -1,9 +1,8 @@
-I'm a MERN Stack developer passionate about building modern, scalable web applications.<br>
-I specialize in JavaScript and TypeScript, and enjoy writing clean, efficient code.<br>
+I'm a Software developer passionate about building modern, scalable web applications.<br>
+I specialize in TypeScript, and enjoy writing clean, efficient code.<br>
 
-Always exploring new technologies and best practices to improve performance and user experience.<br>
-Currently focused on building real-world projects to strengthen my skills.<br>
+curious to explore new technologies and best practices to improve performance and user experience.<br>
 
-<a href="https://siddhantkanawade.vercel.app/" >
+<a href="https://siddhantkanawade.in/" >
   Know more ->
 </a>
