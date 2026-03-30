@@ -1,4 +1,5 @@
-Hi I'm Siddhant a Software developer passionate about building modern, scalable applications.<br>
+Hi I'm Siddhant a software developer passionate about building modern, scalable applications.<br>
+<br>
 I specialize in TypeScript, and enjoy writing clean, efficient code.<br>
 I have around 2+ years of experience and I share my learnings through my <a href="https://siddhantkanawade.in/blogs" >
   blogs.
