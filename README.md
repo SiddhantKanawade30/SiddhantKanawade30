@@ -10,7 +10,7 @@ You can checkout my projects and works at my <a href="https://siddhantkanawade.i
 </a>
 <br>
 <br>
-I'm open to freelance and for any other opportunity, you can reach me out <a href="https://siddhantkanawade.in/" >
+I'm open to freelance and for any other opportunity, you can reach me out <a href="https://siddhantkanawade.in/contact" >
   here.
 </a>
 
