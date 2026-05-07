@@ -5,7 +5,7 @@ I have around 2+ years of experience and I share my learnings through my <a href
   blogs.
 </a>
 <br>
-You can checkout my projects and works at my <a href="https://siddhantkanawade.in/" >
+Feel free to checkout my projects and work at my <a href="https://siddhantkanawade.in/" >
   portfolio.
 </a>
 <br>
